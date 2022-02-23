@@ -15,6 +15,8 @@ const Home: React.FC = () => {
 
   return (
     <Layout>
+      <Link to="/neo/54194339">54194339</Link>
+      <hr />
       <List>
         <Row className="header">
           <Col>Name</Col>
